@@ -1,2 +1,3 @@
-Python Continuous Integration Example
+***Python Continuous Integration Example***
+
 It's a simple calculator!
